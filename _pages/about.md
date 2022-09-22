@@ -7,7 +7,7 @@ image: '/images/01-2.jpeg'
 
 Welcome to my personal website. I am currently a PhD Candidate in the Department of Political Science and a Master of Science Candidate in the Department of Statistics at Northwestern University, with an anticipated defense date in late Summer 2023. My work broadly engages in the development of mixed-methods research tools in the empirical study of comparative politics. I substantively focus on the legacies of violent conflict, subnational state capacity, and rural land conflict in Latin America. 
 
-My dissertation project devises problem-solving methods for issues encountered in the study of comparative politics. The project is divided into three papers in preparation that each tackle a distinct methodological issue and show the method's applied utility to a research question that fits within my substantive area of expertise. Support for my dissertation research has been provided by the Buffett Institute for Global Studies and the Latin American and Caribbean Studies Cluster at Northwestern, as well as the Center for the Study of Security and Drugs at the University of the Andes-Bogotá.  
+My dissertation project devises problem-solving methods for issues encountered in the study of comparative politics. The project is divided into three papers in preparation that each tackle a distinct methodological issue and show the method's applied utility to a research question that fits within my substantive area of expertise. Support for my dissertation research has been provided by the Buffett Institute for Global Studies and the Latin American and Caribbean Studies Cluster at Northwestern, as well as the Center for the Study of Security and Drugs at the University of the Andes-Bogota.   
 
 More on my dissertation: 
 
