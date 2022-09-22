@@ -17,7 +17,7 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
-
+- {icon: "ion-logo-github", link: "https://github.com/sarah-moore"}
 
 
 #-------------------------------
@@ -31,7 +31,6 @@ hero:
 #-------------------------------
 # Newsletter
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 
 
 
