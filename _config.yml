@@ -24,11 +24,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Sarah. 
-  hero__description: I'm a political scientist. I develop innovative ways to study comparative politics. I'm specifically interested in applying these methodological innovations to the study of violent conflict and the challenges it poses to development in rural Latin America. 
-
-In my free time, I enjoy cooking, lifting weights, or trying my best at Brazilian jiu jitsu. 
-
-I'm on the job market AY 2022-2023! If you have any questions about information you see here or on my CV, please contact me at sarahmoore2022 [at] northwestern [dot] edu. 
+  hero__description: I'm a political scientist. I develop innovative ways to study comparative politics. I'm specifically interested in applying these methodological innovations to the study of violent conflict and the challenges it poses to development in rural Latin America.
 
   hero__image: '/images/01.jpg'
 
