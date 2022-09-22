@@ -5,7 +5,7 @@ permalink: /teaching/
 image: '/images/magdalena.jpeg'
 ---
 
-<b>Classes I have taught as of Fall 2022: </b
+<b>Classes I have taught as of Fall 2022: </b>
 
 Mathematics for the Social Sciences Bootcamp(G) 
 
