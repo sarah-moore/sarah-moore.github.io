@@ -11,4 +11,4 @@ My dissertation project devises problem-solving methods for issues encountered i
 
 I have additional substantive projects related to the legacies of armed group social orders, the propagation of illicit markets in peacetime, gender and outlooks in transitions to peacetime, and subnational state capacity and its measurement, all with a regional focus in Latin America. I also have a few side projects related to media consumption and its consequences for democratic backsliding in the United States. 
 
-I am on the job market! If you have any questions or would like more information on anything that you see on my site, feel free to contact me by email sarahmoore2022 [at] u.northwestern [dot] edu. I'm on twitter [at] sarahmoreorless. 
+I am on the job market! If you would like more information about anything that you see on my site, feel free to contact me by email: sarahmoore2022 [at] u.northwestern [dot] edu. Find me on Twitter [at] sarahmoreorless. 
