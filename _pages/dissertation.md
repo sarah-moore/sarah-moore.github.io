@@ -1,0 +1,13 @@
+---
+layout: page
+title: Dissertation Project
+permalink: /dissertation/
+---
+
+My dissertation is composed of the following three, distinct essays: 
+
+The first paper, <em>Hybrid Sampling Strategies: A Design Framework for Merged Survey Designs</em>, develops a logic for merged probability and non-probability survey samples using knowledge about the structure of the population of interest. Depending on whether the population of interest is bound by geographical, social, or diffuse ties, scholars can leverage the structure of the population to create sampling designs that do not just attempt to merge probability and non-probability survey samples uncritically. I argue that context-driven decisions related to merged sampling designs can help to mitigate cost burden, while still retaining means to estimate uncertainty. 
+
+In the second paper <em>Bayesian Integrative Meta-Analysis</em>, I propose a method of Bayesian meta-analysis that allows for the systematic incorporation of qualitative study information into meta-analytic summary. Specifically, I develop what I call conversion elicitation which provides a structured judgment process by which coders evaluate the information obtained from a qualitative study to supply information into a Bayesian prior. I provide two applied examples of this method: the first related to the effect of conflict violence exposure on individual political participation; the second related to the impact of interventions on bureaucratic corruption. 
+
+The third project component in preparation, <em>Focus Groups and Text-as-Data: Extending the Use of Data from the Field</em> considers opportunities for expanding the use of the total sum of recorded fieldwork data. In an effort to maximize the use of existing field data  and reckon with the variable availability of digital data in low data legibility environments, I propose that transcribed focus group and interview data can be treated like a text corpus. In transforming these fieldwork activities into text data, many opportunities arise for scholars to engage with the entire body of information that they have collected over many hours, days, or months in the field via contemporary computational techniques. In this particular application, I will develop a means to validate the extent to which existing state capacity indices map on to the way that individuals and communities talk about state presence. 
