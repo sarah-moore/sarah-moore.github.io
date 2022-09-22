@@ -24,7 +24,12 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Sarah. 
-  hero__description: I study methodology in comparative politics, violent conflict and its legacies, and the state in Latin America. 
+  hero__description: I'm a political scientist. I develop innovative ways to study comparative politics. I'm specifically interested in applying these methodological innovations to the study of violent conflict and the challenges it poses to development in rural Latin America. 
+
+In my free time, I enjoy cooking, lifting weights, or trying my best at Brazilian jiu jitsu. 
+
+I'm on the job market AY 2022-2023! If you have any questions about information you see here or on my CV, please contact me at sarahmoore2022 [at] northwestern [dot] edu. 
+
   hero__image: '/images/01.jpg'
 
 
@@ -39,19 +44,6 @@ hero:
  #gallery__title: Gallery
   #gallery__columns: 3
   #gallery__images:
-
-
-
-#-------------------------------
-# Contact Settings
-contact:
-  email: sarahmoore2022@u.northwestern.edu # Add your email for contant form
-  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-
-
-#-------------------------------
-# Comment Section (Disqus)
 
 
 #-------------------------------
