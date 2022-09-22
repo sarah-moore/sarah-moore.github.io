@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: CV
 permalink: /elements/
 image: '/images/17.jpg'
 ---
