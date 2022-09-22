@@ -30,7 +30,6 @@ hero:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 
 
 
@@ -53,7 +52,6 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
 
 #-------------------------------
