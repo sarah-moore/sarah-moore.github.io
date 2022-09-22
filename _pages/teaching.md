@@ -5,24 +5,24 @@ permalink: /teaching/
 image: '/images/magdalena.jpeg'
 ---
 
-Classes I have taught as of Fall 2022: 
+<b>Classes I have taught as of Fall 2022: </b
 
-<b>Mathematics for the Social Sciences Bootcamp</b> (G) 
+Mathematics for the Social Sciences Bootcamp(G) 
 
-<b>Visualizing Political Data</b>  (UG) 
+Visualizing Political Data(UG) 
 
-<b>Statistical Research Methods for the Social Sciences</b> (UG) 
+Statistical Research Methods for the Social Sciences (Head TA, UG) 
 
  <hr>
 
-Classes I am prepared to teach: 
+<b>Classes I am prepared to teach: </b>
 
-<b>Contemporary Research on Civil War and the Politics of Violence</b> (UG/G) 
+Contemporary Research on Civil War and the Politics of Violence (UG/G) 
 
-<b>Modern Latin American Politics</b> (UG) 
+Modern Latin American Politics (UG) 
 
-<b>Comparative Politics of Developing States</b> (UG/G) 
+Comparative Politics of Developing States (UG/G) 
 
-<b>Introduction to Empirical Methods for Political Research</b> (UG/G) 
+Introduction to Empirical Methods for Political Research (UG/G) 
 
-<b>Research Design and Approaches to Sampling</b> (G) 
+Research Design and Approaches to Sampling (G) 
