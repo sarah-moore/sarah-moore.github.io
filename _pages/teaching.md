@@ -13,6 +13,8 @@ Classes I have taught as of Fall 2022:
 
 <b>Statistical Research Methods for the Social Sciences</b> (UG) 
 
+ <hr>
+
 Classes I am prepared to teach: 
 
 <b>Contemporary Research on Civil War and the Politics of Violence</b> (UG/G) 
