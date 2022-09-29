@@ -3,6 +3,8 @@ layout: post
 title: "Grad School Resources"
 date:   
 image:  '/images/resources.jpeg'
+tags:   [resources, gradschool]
+
 ---
 
 # Grad School Resources 
