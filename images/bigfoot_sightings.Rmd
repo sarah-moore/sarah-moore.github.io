@@ -1,6 +1,4 @@
----
-title: "Bigfoot sightings in and around the U.S., 2000-2021"
----
+
 This interactive visualization show the dates, locations, and reports of
 Bigfoot Sightings throughout the United States from 2000-2021. These
 data are from the Bigfoot Field Researchers Organization (BFRO) and are
