@@ -19,6 +19,4 @@ data are from the Bigfoot Field Researchers Organization (BFRO) and are
 available on this [tidytuesday
 post](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-09-13).
 
-<iframe seamless src="images/sightings_map.html" width="100%" height="500">
-
-</iframe>
+<iframe seamless = "" width = "100%" height = "500" class="shortcode-iframe" src="/images/work_map.html"></iframe>
