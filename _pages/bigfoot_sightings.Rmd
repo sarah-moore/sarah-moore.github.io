@@ -1,0 +1,27 @@
+---
+title: "Bigfoot sightings in and around the U.S., 2000-2021"
+---
+This interactive visualization show the dates, locations, and reports of
+Bigfoot Sightings throughout the United States from 2000-2021. These
+data are from the Bigfoot Field Researchers Organization (BFRO) and are
+available on this [tidytuesday
+post](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-09-13).
+
+```{r fig.height=6.5, fig.width=8, fig.align = 'center', warning=F, echo=F}
+
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(leaflet))
+suppressPackageStartupMessages(library(lubridate))
+bigfoot <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-09-13/bigfoot.csv", show_col_types = FALSE)
+
+bigfoot$new_date <- format(as.Date(bigfoot$date), "%D")
+bigfoot %>%
+  filter(year(date)>=2000) %>%
+  leaflet() %>%
+  setView(-103.4617, 44.58, zoom = 4) %>%
+  addTiles() %>%
+  addMarkers(~longitude, ~latitude, popup = ~paste("<b>Date:</b>", new_date, "<br>", "<b>Report</b>:", observed), 
+             clusterOptions = markerClusterOptions()) 
+  
+
+```
