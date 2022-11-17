@@ -16,7 +16,6 @@ author:
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
 - {icon: "ion-logo-github", link: "https://github.com/sarah-moore"}
 
 
