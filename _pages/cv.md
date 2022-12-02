@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: [CV](https://www.dropbox.com/s/2a35v7r8wh1o14m/2022_sept_Moore.pdf?dl=0)
 permalink: /cv/
 ---
 
