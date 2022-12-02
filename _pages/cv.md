@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<object data="../images/2022_sept_Moore.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="https://github.com/sarah-moore/sarah-moore.github.io/blob/main/images/2022_sept_Moore.pdf" target="_blank">PDF.</a>
