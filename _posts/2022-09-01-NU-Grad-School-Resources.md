@@ -5,9 +5,6 @@ date: 2022-09-01 12:00:00 -0000
 image:  '/images/resources.jpeg'
 tags:   [resources, gradschool]
 ---
-
-# Grad School Resources 
-
 Originally compiled by Sarah Moore in March 2022. Last updated August 16, 2022. 
 
 Some of these are specific to Northwestern University. But, this should give you an idea of some resources to look for at your own university!
