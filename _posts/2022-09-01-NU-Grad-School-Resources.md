@@ -2,7 +2,7 @@
 layout: post
 title: "Grad School Resources"
 date: 2022-09-01 12:00:00 -0000
-image:  '/images/resources.jpeg'
+image:  '/images/mariposas.jpeg'
 tags:   [resources, gradschool]
 ---
 Originally compiled by Sarah Moore in March 2022. Last updated August 16, 2022. 
