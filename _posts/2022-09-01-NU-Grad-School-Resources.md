@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grad School Resources"
-date:   
+date: 2022-09-01 12:00:00 -0000
 image:  '/images/resources.jpeg'
 tags:   [resources, gradschool]
 
