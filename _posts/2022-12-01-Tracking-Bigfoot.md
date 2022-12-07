@@ -2,7 +2,7 @@
 layout: post
 title: "Tracking Bigfoot"
 date: 2022-12-01 12:00:00 -0000
-image:  '/images/mariposas.jpg'
+image:  '/images/tracking.jpg'
 tags:   [dataviz, gradschool, teaching]
 ---
 
