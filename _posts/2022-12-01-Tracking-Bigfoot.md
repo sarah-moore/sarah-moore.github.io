@@ -1,13 +1,9 @@
 ---
-layout: page
-title: Fun Stuff
-permalink: /fun-stuff/
-maps: true
-always_allow_html: yes
-output: 
-  md_document:
-    variant: gfm
-    preserve_yaml: true
+layout: post
+title: "Tracking Bigfoot"
+date: 2022-12-01 12:00:00 -0000
+image:  '/images/mariposas.jpg'
+tags:   [dataviz, gradschool, teaching]
 ---
 
 [Here's an example](/images/bigfoot_sightings.html) of something I recently taught my students how to make
