@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Teaching
 permalink: /teaching/
 image: '/images/magdalena.jpeg'
 maps: true
