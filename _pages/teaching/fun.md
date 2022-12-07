@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fun Stuff
-permalink: /teaching/fun-stuff/
+permalink: /fun-stuff/
 maps: true
 always_allow_html: yes
 output: 

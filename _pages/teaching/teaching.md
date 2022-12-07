@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-permalink: /teaching/courses
+permalink: /teaching/
 image: '/images/magdalena.jpeg'
 maps: true
 ---
