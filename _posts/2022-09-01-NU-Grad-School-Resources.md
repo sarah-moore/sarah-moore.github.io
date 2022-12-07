@@ -4,7 +4,6 @@ title: "Grad School Resources"
 date: 2022-09-01 12:00:00 -0000
 image:  '/images/resources.jpeg'
 tags:   [resources, gradschool]
-
 ---
 
 # Grad School Resources 
