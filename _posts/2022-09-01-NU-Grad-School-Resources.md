@@ -11,7 +11,7 @@ tags:   [resources, gradschool]
 
 Originally compiled by Sarah Moore in March 2022. Last updated August 16, 2022. 
 
-Some of these are specific to Northwestern University. But, this should give you an idea of some resoureces to look for at your own university!
+Some of these are specific to Northwestern University. But, this should give you an idea of some resources to look for at your own university!
 
 **Tools to make life easier** 
 
