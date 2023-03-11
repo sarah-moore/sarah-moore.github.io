@@ -4,7 +4,7 @@ title: Dissertation Project
 permalink: /dissertation/
 ---
 
-In my dissertation, I devise a novel methodological contribution that incorporates my skills in qualitative and quantitative methods with an application to the study of comparative political economy or violent conflict.
+In my dissertation, I devise a novel methodological contributions that incorporate my skills in qualitative and quantitative methods with an application to the study of comparative political economy or violent conflict.
 
 In the first paper, *Integrative Meta-Analysis*, I propose a mixed-method, process-oriented approach to meta-analysis. I develop a procedure called *conversion elicitation*, a structured judgment process by which coders evaluate the information obtained from a qualitative study to supply information for meta-analysis via either a frequentist or Bayesian framework. I provide an applied example of this method to evaluate interventions toward reducing bureaucratic corruption based on an earlier review provided by Gans-Morse et al. (2018).  
 
