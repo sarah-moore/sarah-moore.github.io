@@ -8,8 +8,10 @@ maps: true
 
 <b>Classes I have taught as of Fall 2022: </b>
 
-Mathematics for the Social Sciences Bootcamp (G)
-  [2022 Github Repository](https://github.com/NUpolisci/NU-math-camp)
+Mathematics for the Social Sciences Bootcamp (G)<br>
+
+  [2022 Github Repository](https://github.com/NUpolisci/NU-math-camp)<br>
+  
   [2023 Github Repository](https://github.com/sarah-moore/NUMC_2023)
 
 Visualizing Political Data (UG)
