@@ -8,14 +8,15 @@ maps: true
 
 <b>Classes I have taught as of Fall 2022: </b>
 
-Mathematics for the Social Sciences Bootcamp (G)<br>
+Mathematics for the Social Sciences Bootcamp (G)
 
-  [2022 Github Repository](https://github.com/NUpolisci/NU-math-camp)<br>
+- [2022 Github Repository](https://github.com/NUpolisci/NU-math-camp)
   
-  [2023 Github Repository](https://github.com/sarah-moore/NUMC_2023)
+- [2023 Github Repository](https://github.com/sarah-moore/NUMC_2023)
 
 Visualizing Political Data (UG)
-  [Fall 2022 Github Repository](https://github.com/sarah-moore/lousy-graphs)
+
+- [Fall 2022 Github Repository](https://github.com/sarah-moore/lousy-graphs)
 
 Statistical Research Methods for the Social Sciences (Head TA, UG) 
 
