@@ -23,7 +23,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Sarah. 
-  hero__description: <p align="justify"> I recently received my PhD Political Science and MS in Statistics from Northwestern University. <br> <br>I develop mixed-methods research tools for the empirical study of comparative politics, especially where information is scarce or hard to reach. I substantively focus on the legacies of violent conflict, subnational governance and authority, and comparative political economy in Latin America. </p>
+  hero__description: <p align="justify"> I recently received my PhD in Political Science and MS in Statistics from Northwestern University. <br> <br>I develop mixed-methods research tools for the empirical study of comparative politics, especially where information is scarce or hard to reach. I substantively focus on the legacies of violent conflict, subnational governance and authority, and comparative political economy in Latin America. </p>
 
   hero__image: '/images/01.jpg'
 
