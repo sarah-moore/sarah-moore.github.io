@@ -11,4 +11,4 @@ In my dissertation, I formalize various methodological tools for approaches to m
 
 I have additional substantive projects related to the legacies of armed group social order, relational identity and post-conflict attitudes, and people's relationship to the state and other sources of authority. Most of my work focuses on Latin American politics, specifically Colombia, but I also have some projects related to American politics. 
 
-If you would like more information about anything that you see on my site, feel free to contact me by email: sarahemoore575 [at] gmail.com. 
+If you would like more information about anything that you see on my site, feel free to contact me by email: **sarahemoore575 [at] gmail.com**. 
