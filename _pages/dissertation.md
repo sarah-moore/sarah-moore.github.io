@@ -1,13 +1,7 @@
 ---
 layout: page
-title: Dissertation Project
-permalink: /dissertation/
+title: Research Agenda
+permalink: /research/
 ---
 
-In my dissertation, I devise novel methodological contributions that incorporate my expertise in qualitative and quantitative methods with an application to the study of comparative political economy or violent conflict.
-
-In the first paper, *Bayesian Integrative Meta-Analysis,* I challenge the traditional quantitative framework of meta-analysis, which cannot meaningfully incorporate quantitative and qualitative scholarship into a single analysis. I articulate a novel method for incorporating both these types of studies into the same meta-analysis to account for the diverse evidence types that compose political science scholarship. I create a process called conversion elicitation— a structured judgment process in which coders evaluate the information obtained from a qualitative study. I demonstrate how the information gathered from this process can be input into a meta-analysis through both a simulated case study and an applied example concerning the effect of wage increases on bureaucratic corruption.
-
-The second paper, *Hybrid Sampling Strategies: A Design Framework for Merged Survey Designs*, develops a logic for merged probability and non-probability survey samples. As survey costs grow and population information remains variable across contexts, probability-based survey techniques are increasingly unfeasible. This reality significantly impacts scholars studying limited information contexts in the Global South. With these intractable issues in mind, this project asserts a design framework for merging probability and non-probability samples using knowledge about the structure of the population of interest. I argue that context-driven decisions related to combined sampling designs can help to mitigate cost burden while still retaining means to estimate uncertainty.
-
-The third paper, *Measuring Costly Concepts: A Multi-Method Strategy for Measurement of Many-N Cases*, provides a solution for what I call costly concepts, concepts for which a direct measure exists, but data collection is too expensive to engage in over many cases. Typically, scholars use proxy measures of these concepts. But when proxies are not a one-to-one match with the accurate concept measurement, there is non-random measurement error. I suggest that a mixed-method approach to measurement, in which true measurement of the concept is obtained over a set of cases, can be useful to define the contours of the bias between the true measure of concepts and a chosen proxy. I further demonstrate how case insights can inform the basis of improved measurement of the concept. I provide an illustration of this method to measure access to essential services, such as running water or sewage, at sub-municipal levels. In an additional paper, Ana Arjona and I extend this method to the measurement of municipal-level armed group presence in Colombia.
+Updating July 2024. 
