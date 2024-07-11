@@ -12,4 +12,4 @@ I have additional substantive projects related to the legacies of armed group so
 
 If you would like more information about anything that you see on my site, feel free to contact me by email: **sarahemoore575 [at] gmail.com**. 
 
-.[](/images/01-2.jpeg)
+![](/images/01-2.jpeg)
