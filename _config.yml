@@ -11,7 +11,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Sarah Moore, PhD Candidate
+  author__name: Sarah Moore, PhD
   author__bio: Post-Doctoral Fellow, Northwestern University
   author__avatar: '/images/01-1.jpg'
 
