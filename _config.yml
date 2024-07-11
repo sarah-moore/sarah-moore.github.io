@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Sarah Moore, PhD Candidate
+title: Sarah Moore, PhD
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Forever a student. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Sarah Moore, PhD Candidate
-  author__bio: PhD Candidate in Political Science, MS Candidate in Statistics, Northwestern University
+  author__bio: Post-Doctoral Fellow, Northwestern University
   author__avatar: '/images/01-1.jpg'
 
 social:
@@ -23,7 +23,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Sarah. 
-  hero__description: <p align="justify"> I'm a PhD Candidate in Political Science and an MS Candidate in Statistics at Northwestern University. <br> <br>I develop mixed-methods research tools for the empirical study of comparative politics, especially where information is scarce or hard to reach. I substantively focus on the legacies of violent conflict, subnational governance and authority, and comparative political economy in Latin America. </p>
+  hero__description: <p align="justify"> I recently received my PhD Political Science and MS in Statistics from Northwestern University. <br> <br>I develop mixed-methods research tools for the empirical study of comparative politics, especially where information is scarce or hard to reach. I substantively focus on the legacies of violent conflict, subnational governance and authority, and comparative political economy in Latin America. </p>
 
   hero__image: '/images/01.jpg'
 
