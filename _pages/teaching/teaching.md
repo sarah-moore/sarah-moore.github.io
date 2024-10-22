@@ -6,31 +6,39 @@ image: '/images/magdalena.jpeg'
 maps: true
 ---
 
-<b>Classes I have taught as of Fall 2022: </b>
+<b>Classes I have taught as of Fall 2024: </b>
 
-Mathematics for the Social Sciences Bootcamp (G)
+*Clovis Community College* 
 
-- [2022 Github Repository](https://github.com/NUpolisci/NU-math-camp)
-  
-- [2023 Github Repository](https://github.com/sarah-moore/NUMC_2023)
+American National Government 
 
-Visualizing Political Data (UG)
+*Northwestern University*
 
-- [Fall 2022 Github Repository](https://github.com/sarah-moore/lousy-graphs)
+Time Series and Panel Methods (Head TA, Graduate)
 
-Statistical Research Methods for the Social Sciences (Head TA, UG) 
+Mathematics for the Social Sciences Bootcamp (Graduate) [2022 GitHub](https://github.com/NUpolisci/NU-math-camp), [2023 GitHub](https://github.com/sarah-moore/NUMC_2023)
+
+Visualizing Political Data (Undergraduate) [Fall 2022 GitHub](https://github.com/sarah-moore/lousy-graphs)
+
+Statistical Research Methods for the Social Sciences (Head TA, Undergraduate) 
+
+Various Workshops on R Programming and Version Control 
 
  <hr>
 
 <b>Classes I am prepared to teach: </b>
 
-Contemporary Research on Civil War and the Politics of Violence (UG/G) 
-
-Modern Latin American Politics (UG) 
-
-Comparative Politics of Developing States (UG/G) 
-
 Introduction to Empirical Methods for Political Research (UG/G) 
 
+Comparative Study of the State (UG/G)
+
 Research Design and Approaches to Sampling (G) 
+
+Research and Practice in Comparative Political Economy (UG)
+
+Comparative Political Economy of Developing States (UG/G) 
+
+Contemporary Research on Civil War and the Politics of Violence (UG/G) 
+
+Subnational Politics (UG/G) 
 
